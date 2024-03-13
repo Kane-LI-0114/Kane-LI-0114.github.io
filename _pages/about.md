@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "LI Jinchuan, Luke"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
