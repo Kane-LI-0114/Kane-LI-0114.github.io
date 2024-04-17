@@ -8,7 +8,8 @@ redirect_from:
 ---
 Biography
 ======
-I am currently a Undergraduate Student in the Department of Computer Science, Hong Kong Baptist University. My concentration is Computing and Software Technologies.
+I am currently a Undergraduate Student in the Department of Computer Science, Hong Kong Baptist University. 
+My concentration is Computing and Software Technologies.
 
 Education
 ======
