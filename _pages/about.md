@@ -14,17 +14,68 @@ Education
 ======
 * **BSc, Department of Computer Science, Hong Kong Baptist University** [Aug 2021 - Jul 2025] Hong Kong, China
 
+Related Courses
+======
+* COMP1005 Essence of Computing
+* COMP1006 Facets of Computing
+* COMP2006 Computer Organization
+* COMP2015 Data Structure and Algorithms
+* COMP2016 Database Management
+* COMP2017 Operating Systems
+* COMP2027 Applied Linear Algebra for Computing
+* COMP3005 Design and Analysis of Algorithms
+* COMP3015 Data Communications and Networking
+* COMP3047 Software Engineering
+* COMP4057 Distributed and Cloud Computing
+* COMP4107 Software Design, Development and Testing
+* COMP4137 Blockchain Technology and Applications
+
 Teaching Experience
 ======
 * Student Helper, **COMP 2016 Database Management** <var>HKBU</var> (2024/1 - 2024/4)
 * Student Helper, **COMP 1005 Essence of Computing** <var>HKBU</var> (2024/1 - 2024/4)
 * Peer Tutor, **Department of Computer Science** <var>HKBU</var> (2023/8 - 2023/12)
 
+Strengths
+======
+* Skilled in Object-Oriented Programming
+* Skilled in using JAVA and Kotlin
+* Understanding of Python and JavaScript
+* Understanding of Data Processing using SQL and Hadoop MapReduce
+* Understanding of collaborative software development using GitHub 
+* Experience in Developing backend using JavaScript
+* Experience in Developing frontend using Vue and HTML
+* Experience in Developing Android Applications using Kotlin
+
 Skill
 ======
 * **Programming Languages:** Primary: JAVA, Kotlin； Secondary: SQL, JavaScript, Vue
 * **Languages:** English (fluent), Mandarin (Native), Cantonese (Junior)
 
+Project Experience
+======
+* Course Project:
+  * Developed a vertically scrolling shooter game, Python, Individual Project
+  * Developed a simple database, Charging in trigger and SQL statement design, Group Project
+  * Developed a drawing board application used in local area network, Java, Group Project, Charging in 
+  broadcasting phase development
+  * Developed a website managing amount of volunteers, Vue, Individual Project
+  * Developed an Android Application managing amount of events, Kotlin, JetPack Compose, Individual Project
+  * Remade War of the Three Kingdoms, Kotlin, OOP, Group Project, Charging in basic game rules design (Card Generator, 
+  Basic Cards) and a few generals (Wei Generals)
+
+Extra-curricular Activity Record
+======
+* A publicity officer in Hong Kong Baptist University Student Union
+  Mountaineering Association, primary work on creating poster and managing WeChat Official Account
+* A mentor in 2022 – 2023 Orientation Activity for new admitted 
+  students, activity held by Association of Mainland and Hong Kong Youths, HKBU
+* A Faculty Captain in Hong Kong Baptist University Mental Health First Aid Captain Programme 2023/24
+
+Interests and Learning
+======
+* Interest in game design, Web development and Android development
+* Learning Unreal Engine 5.3, with game logic in blueprint, have plans in learning C++ programming
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
