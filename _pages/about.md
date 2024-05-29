@@ -48,12 +48,14 @@ Strengths
 * Experience in Developing backend using Express.js (Node.js)
 * Experience in Developing frontend using Vue and HTML
 * Experience in Developing Android Applications using Kotlin
+* Experience in Developing and Maintaining Weixin Mini Program with uni-app
 * Experience in using Linux OS
 
 Skill
 ======
-* **Programming Languages:** Primary: JAVA, Kotlin； Secondary: SQL, JavaScript, Vue
+* **Programming Languages:** JAVA, Kotlin, Python, SQL, JavaScript, Vue
 * **Languages:** English (fluent), Mandarin (Native), Cantonese (Junior)
+* **Framework:** Express, uni-app
 
 Project Experience
 ======

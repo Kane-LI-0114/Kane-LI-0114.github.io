@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "LI Jinchuan, Luke"
+title                    : "LI Jinchuan, Crix"
 title_separator          : "-"
 name                     : &name "LI Jinchuan"
 description              : &description "personal description"
-url                      : https://madine-luke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://crix-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Madine-Luke/Madine-Luke.github.io"
+repository               : "Crix-LI/Crix-LI.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "Madine-Luke/Madine-Luke.github.io"
 author:
   # Biographic information
   avatar           : "ljc.jpg"
-  name             : "LI Jinchuan, Luke"
+  name             : "LI Jinchuan, Crix"
   pronouns         : "he/him" 
   bio              : "Undergraduate Student, Department of Computer Science, Computing and Software Technologies, Hong Kong Baptist University"
   location         : "Hong Kong / Shen Zhen"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Madine-Luke"
+  github           : "Crix-LI"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
