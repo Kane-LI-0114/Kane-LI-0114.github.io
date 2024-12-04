@@ -41,16 +41,16 @@ Teaching Experience
 
 Strengths
 ======
-* Skilled in Object-Oriented Programming
-* Skilled in using JAVA and Kotlin
-* Skilled in developing with Design Patterns
-* Understanding of Python and JavaScript
-* Understanding of Data Processing using SQL and Hadoop MapReduce
-* Understanding of collaborative software development using GitHub 
-* Experience in Developing backend using Express.js (Node.js)
-* Experience in Developing frontend using Vue and HTML
-* Experience in Developing Android Applications using Kotlin
-* Experience in Developing and Maintaining Weixin Mini Program with uni-app
+* Skilled in **Object-Oriented Programming (OOP)**
+* Skilled in using **JAVA** and **Kotlin**
+* Skilled in developing with **Design Patterns**
+* Understanding of **Python** and **JavaScript**
+* Understanding of Data Processing using **SQL** and **Hadoop MapReduce**
+* Understanding of collaborative software development using **Git**
+* Experience in Developing backend using **Express.js (Node.js)**
+* Experience in Developing frontend using **Vue3** and **HTML**
+* Experience in Developing **Android Applications using Kotlin**
+* Experience in Developing and Maintaining **Weixin Mini Program with uni-app**
 * Experience in using Linux OS
 
 Skill
