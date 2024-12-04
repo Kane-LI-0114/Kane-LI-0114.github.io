@@ -30,6 +30,8 @@ Related Courses
 * COMP4057 Distributed and Cloud Computing
 * COMP4107 Software Design, Development and Testing
 * COMP4137 Blockchain Technology and Applications
+* COMP4097 Mobile Computing and Internet of Things
+* COMP4006 Information Technology Professional Practices
 
 Teaching Experience
 ======
