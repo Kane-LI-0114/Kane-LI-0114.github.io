@@ -27,6 +27,7 @@ Related Courses
 * COMP3005 Design and Analysis of Algorithms
 * COMP3015 Data Communications and Networking
 * COMP3047 Software Engineering
+* COMP3076 AI and Generative Arts
 * COMP4057 Distributed and Cloud Computing
 * COMP4107 Software Design, Development and Testing
 * COMP4137 Blockchain Technology and Applications
